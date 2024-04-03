@@ -1,0 +1,29 @@
+{
+  "name": "kiwicord",
+  "version": "1.0.0",
+  "description": "Discord API Wrapper",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kewwie/kiwicord.git"
+  },
+  "keywords": [
+    "kiwicord",
+    "discord",
+    "js",
+    "javascript",
+    "discord.js",
+    "cord",
+    "command",
+    "handler",
+    "button"
+  ],
+  "author": "kewwie",
+  "bugs": {
+    "url": "https://github.com/kewwie/kiwicord/issues"
+  },
+  "homepage": "https://github.com/kewwie/kiwicord#readme",
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
